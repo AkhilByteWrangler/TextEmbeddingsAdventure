@@ -31,4 +31,4 @@ Exploring embeddings and visualizing them is crucial for various applications in
 Join Data and Insight on their adventure and uncover the wisdom waiting in the Embedding Space!
 
 ## **How to Run?**:
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIPI-590-XAI/Duke-AI-XAI/blob/dev/templates/template.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](AkhilByteWrangler/TextEmbeddingsAdventure/blob/main/Data_Doggo_and_Insight_Cat_Embeddings_Adventure.ipynb)
